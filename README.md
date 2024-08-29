@@ -1,1 +1,1 @@
-# Receipe-page
+# Receipe page
